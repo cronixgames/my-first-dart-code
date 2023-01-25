@@ -1,0 +1,14 @@
+void main (){
+  // meu primeiro codigo.
+  String pou = "depois da meia noite";
+  print("$pou eu estarei dormindo");
+  
+  bool pouzin = true;
+  print("pouzin: $pouzin");
+  
+  int albion = 171;
+  //função visualizar é o print
+  print("Albion: $albion");
+  
+  
+} 
